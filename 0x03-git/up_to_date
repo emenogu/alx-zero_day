@@ -1,1 +1,2 @@
-vi
+git pull origin up_to_date
+git switch up_to_date
